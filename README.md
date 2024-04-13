@@ -1,1 +1,1 @@
-# This is My Rofi Dotfiles.
+# This is My Rofi Config.
